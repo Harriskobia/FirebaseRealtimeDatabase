@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "383501292829",
+    "project_id": "fir-realtimedb-f4931",
+    "storage_bucket": "fir-realtimedb-f4931.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383501292829:android:7ca3edcc5d237384f53df4",
+        "android_client_info": {
+          "package_name": "com.haryepie.rtdb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383501292829-6i5eveau2kc0t840i2ggql6vdcer9hl9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAis7S5_lXHZgB5MHuP5KhfiFl4DQTtfIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383501292829-6i5eveau2kc0t840i2ggql6vdcer9hl9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
